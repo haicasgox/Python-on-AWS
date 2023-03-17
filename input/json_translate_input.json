@@ -1,0 +1,14 @@
+{
+    "Input":[
+        {
+        "Text":"I am learning to code in AWS",
+        "SourceLanguageCode":"en",
+        "TargetLanguageCode":"vi"
+        },
+        {
+        "Text":"I am learning to code in AWS",
+        "SourceLanguageCode":"en",
+        "TargetLanguageCode":"ko"
+        }
+    ]
+}

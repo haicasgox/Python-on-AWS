@@ -1,0 +1,1 @@
+Append additional characters in this file from open() built-in fuction
